@@ -1,16 +1,12 @@
-## Hi there 👋
+<h1 align="center"> <img alt="GIF" width="7%" src="https://i.pinimg.com/originals/51/12/5d/51125d9904b0aab078e2f7d0cbf37d8a.gif"> Hey there! Welcome to my profile, I'm Aditya! </h1>
+<img align="right" alt="GIF" width="55%" src="https://i.pinimg.com/originals/0b/5c/c0/0b5cc024841accd9a31a7b2daeb0e57b.gif"/>
 
-<!--
-**adityamgr55/adityamgr55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💫 About Me:
+💻 I’m pursuing M.Tech from <b> IIIT </b>, GWALIOR (Madhya Pradesh , India).<br>
+🌱 I’m currently learning Machine Learning ,Deep Learning and Computer Vision.<br>
+👯 I’m looking to collaborate on any good project.<br>
+🤔 My interests include Machine Learning ,Deep Learning ,Computer Vision and Coding (C++ , Python) and many more.<br>📫 You can mail me at: adityamgr55@gmail.com.<br>
+📝 See my [Resume]([https://drive.google.com/file/d/1187faUL6DoYRE6RU2XFlquFLaO371tIw/view?usp=drive_link](https://drive.google.com/file/d/1Q2rp4uy3_M07ZqYapL1bx2xKNPx0CPCe/view?usp=sharing)) to get more info.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
