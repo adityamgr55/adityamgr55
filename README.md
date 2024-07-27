@@ -6,7 +6,7 @@
 🌱 I’m currently learning Machine Learning ,Deep Learning and Computer Vision.<br>
 👯 I’m looking to collaborate on any good project.<br>
 🤔 My interests include Machine Learning ,Deep Learning ,Computer Vision and Coding (C++ , Python) and many more.<br>📫 You can mail me at: adityamgr55@gmail.com.<br>
-📝 See my [Resume]([https://drive.google.com/file/d/1187faUL6DoYRE6RU2XFlquFLaO371tIw/view?usp=drive_link](https://drive.google.com/file/d/1Q2rp4uy3_M07ZqYapL1bx2xKNPx0CPCe/view?usp=sharing)) to get more info.
+📝 See my [Resume](https://drive.google.com/file/d/1Q2rp4uy3_M07ZqYapL1bx2xKNPx0CPCe/view?usp=sharing) to get more info.
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
