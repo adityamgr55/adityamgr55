@@ -2,7 +2,7 @@
 <img align="right" alt="GIF" width="55%" src="https://i.pinimg.com/originals/0b/5c/c0/0b5cc024841accd9a31a7b2daeb0e57b.gif"/>
 
 # 💫 About Me:
-💻 I’m pursuing M.Tech from <b> IIIT </b>, GWALIOR (Madhya Pradesh , India).<br>
+💻 I’m pursuing M.Tech from <b> IIIT </b>,Gwalior (Madhya Pradesh , India).<br>
 🌱 I’m currently learning Machine Learning ,Deep Learning and Computer Vision.<br>
 👯 I’m looking to collaborate on any good project.<br>
 🤔 My interests include Machine Learning ,Deep Learning ,Computer Vision and Coding (C++ , Python) and many more.<br>📫 You can mail me at: adityamgr55@gmail.com.<br>
